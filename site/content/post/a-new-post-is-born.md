@@ -6,4 +6,4 @@ image: /img/angkor_wat_temple_cambodia-wallpaper-1920x1200.jpg
 ---
 There is a link to the [brewing post](/post/brewing-chemex/).
 
-Here is a link to a [completely different site](https://www.of-mu.org).
+Here is a link to a [completely different site](https://www.example.com).
